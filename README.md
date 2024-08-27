@@ -16,6 +16,4 @@ The code that I wrote was inspired from these sources:
 
 ## Video Preview
 
-<video controls poster="./preview_thumbnail.png">
-  <source src="./perview.mp4" type="video/mp4">
-</video>
+![sample](preview.gif)
